@@ -1,4 +1,5 @@
-# phd
+ 
+
 VARIABILIDAD DINÁMICA EN SISTEMAS SENSIBLES AL CONTEXTO
 ============================================================
 
